@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T14:59:37.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RrqJDQI_wOf9AsJp7IZI" version="24.6.2" type="github">
-  <diagram name="Register" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1215" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-06-26T12:21:33.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HOVA7pkjWkLjXd8spdG4" version="24.6.2" type="github" pages="4">
+  <diagram name="Member" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1647" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,66 @@
         </mxCell>
         <mxCell id="4" value="Third Party" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="P13JsM9zcMsS4tUHkvqB-4" value="&lt;h3&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Member Plan&lt;/font&gt;&lt;/h3&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Buy the coures &quot;one time payment&quot;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;The term is one year&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Payment Methods&lt;/b&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;E-wallet&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Bank (Bcel One, LDB)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-100" width="850" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o_T59tJobxNDzN5I5ACZ" name="Testing">
+    <mxGraphModel dx="729" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLQVIS_SAmOQBYnRHXV6-1" value="Portal" style="swimlane;whiteSpace=wrap;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="vLQVIS_SAmOQBYnRHXV6-2" value="Admin" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="vLQVIS_SAmOQBYnRHXV6-3" value="Third Party" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ezILiPKrxT_s9o5DRZSo-1" value="&lt;h3 style=&quot;&quot;&gt;Score:&amp;nbsp;&lt;/h3&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Score calculator&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;br&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;align=left;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="-110" width="845.5" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Practicing" id="Q-M733JJq2-84u1IO-hr">
+    <mxGraphModel dx="1647" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xYZfahrA6d-6PImeQhtY-0" />
+        <mxCell id="xYZfahrA6d-6PImeQhtY-1" parent="xYZfahrA6d-6PImeQhtY-0" />
+        <mxCell id="xYZfahrA6d-6PImeQhtY-2" value="Portal" style="swimlane;whiteSpace=wrap;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xYZfahrA6d-6PImeQhtY-1">
+          <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="xYZfahrA6d-6PImeQhtY-3" value="Admin" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xYZfahrA6d-6PImeQhtY-1">
+          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="xYZfahrA6d-6PImeQhtY-4" value="Third Party" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xYZfahrA6d-6PImeQhtY-1">
+          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Coursing" id="fecpJG4H_wPHY0QY93wF">
+    <mxGraphModel dx="1938" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OwFUY_mhUAi9kvZXRJ13-0" />
+        <mxCell id="OwFUY_mhUAi9kvZXRJ13-1" parent="OwFUY_mhUAi9kvZXRJ13-0" />
+        <mxCell id="OwFUY_mhUAi9kvZXRJ13-2" value="Portal" style="swimlane;whiteSpace=wrap;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OwFUY_mhUAi9kvZXRJ13-1">
+          <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="OwFUY_mhUAi9kvZXRJ13-3" value="Admin" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OwFUY_mhUAi9kvZXRJ13-1">
+          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="OwFUY_mhUAi9kvZXRJ13-4" value="Third Party" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OwFUY_mhUAi9kvZXRJ13-1">
+          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="3PXxnS49VTGMYElekSmu-0" value="&lt;font face=&quot;Verdana&quot;&gt;Video Hosting:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Youtube&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Google Drive&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Cloud Server&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="OwFUY_mhUAi9kvZXRJ13-1">
+          <mxGeometry x="160" y="-190" width="850" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
