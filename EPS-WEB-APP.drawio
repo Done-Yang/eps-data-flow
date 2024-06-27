@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T12:21:33.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HOVA7pkjWkLjXd8spdG4" version="24.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-27T02:06:16.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xTYWEoMJ-zW17r9O3ySl" version="24.6.2" type="github" pages="4">
   <diagram name="Member" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1647" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o_T59tJobxNDzN5I5ACZ" name="Testing">
-    <mxGraphModel dx="729" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Practicing" id="Q-M733JJq2-84u1IO-hr">
-    <mxGraphModel dx="1647" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xYZfahrA6d-6PImeQhtY-0" />
         <mxCell id="xYZfahrA6d-6PImeQhtY-1" parent="xYZfahrA6d-6PImeQhtY-0" />
@@ -57,7 +57,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Coursing" id="fecpJG4H_wPHY0QY93wF">
-    <mxGraphModel dx="1938" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OwFUY_mhUAi9kvZXRJ13-0" />
         <mxCell id="OwFUY_mhUAi9kvZXRJ13-1" parent="OwFUY_mhUAi9kvZXRJ13-0" />
